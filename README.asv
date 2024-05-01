@@ -1,6 +1,5 @@
 # pullinger_sobie_2024
-A repository for the code used in the 2024 manuscript by Pullinger and 
-Sobie
+A repository for the code used in the 2024 manuscript by Pullinger and Sobie
 
 To choose the desired settings and run the vulnerable window protocol on 
 one or more cables use Rush-Larsen/CN_local_script.m
@@ -17,5 +16,4 @@ on isolated CMs.
 An example result, for heterogeneous cable sample 1, is saved as:
 Rush-Larsen/vw-results/vw-results_N100_t3_s1_s2c50.mat
 
-The initial conditions generated for the above simulation are saved as:
-Rush-Larsen/ICs/ics_N100_t3_s1_beat21.mat
+The initial conditions 
