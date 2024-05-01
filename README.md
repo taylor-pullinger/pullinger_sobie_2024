@@ -13,9 +13,3 @@ included in the Populations directory.
 
 The ToRORd19 folder contains code needed to run the Tomek et al. 2019 model 
 on isolated CMs.
-
-An example result, for heterogeneous cable sample 1, is saved as:
-Rush-Larsen/vw-results/vw-results_N100_t3_s1_s2c50.mat
-
-The initial conditions generated for the above simulation are saved as:
-Rush-Larsen/ICs/ics_N100_t3_s1_beat21.mat
